@@ -5,7 +5,7 @@ This web-based application is tailored for dental care, named Dental Health. It 
 ### This web based dental care application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://purple-beach-0eeb6b700.3.azurestaticapps.net/
+**Project Link** - https://purple-beach-0eeb6b700.3.azurestaticapps.net
 
 **Project demovideo link** = https://youtu.be/Y8qHUXCxmeY
 
