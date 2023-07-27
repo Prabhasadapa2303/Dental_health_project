@@ -41,7 +41,8 @@ This web-based application is tailored for dental care, named Dental Health. It 
 ### Contact us -![Contact_us(ss)](https://github.com/Prabhasadapa2303/Dental_health_project/assets/139069049/9291bc5f-ac8d-41c7-a705-53aecaba49f8)
 
 
-### Health bot - ![bot(ss)](https://github.com/Prabhasadapa2303/Dental_health_project/assets/139069049/fda221ed-feaa-4f69-99a9-765e8f4847c0)
+### Health bot - ![bot](https://github.com/Prabhasadapa2303/Dental_health_project/assets/139069049/b37baffd-1046-4b1d-bc71-cfe7c2c7cac8)
+
 
 
 
