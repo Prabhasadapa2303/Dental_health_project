@@ -13,8 +13,10 @@ This web-based application is tailored for dental care, named Dental Health. It 
  
 
 ## Azure technologies used for project
-- Static web apps
-- Health bot
+- Azure Cognitive Services
+- AI + Machine Learning
+- Laguage Service
+- Custom Question Answer
 ## Features and Functionalities 😃
 
 - Dynamic and adaptive user interface.
